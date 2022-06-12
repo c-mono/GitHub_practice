@@ -1,0 +1,1 @@
+vscodeからgithubへの連携再テスト
